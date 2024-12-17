@@ -8,5 +8,5 @@ Project include:
 2. dataset located  here https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis, could be loaded via API kagglehub.
 3. README.md
 4. rs_hw2_cherkashina_meshkov.pdf - notebook that converted to pdf by latex
-5. program_logic.pdf - describing how programm work by different functional block. Each block made by Михаил or Елизавета.
+5. task_logic.pdf - describing tasks by blocks for parallel development. Each block should be made by Михаил or Елизавета.
 
